@@ -9,7 +9,7 @@ function HeroSection() {
   
       <img src="../build/images/logo.png" alt='logo' />
     
-      <video src='../videos/Sendero - 119781.mp4' autoPlay loop muted />
+      <video src='../build/videos/Sendero - 119781.mp4' autoPlay loop muted />
      
       
       
