@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className='hero-container'> 
   
-      <img src="../images/logo.png" alt='logo' />
+      <img src="..build/images/logo.png" alt='logo' />
     
       <video src='../videos/Sendero - 119781.mp4' autoPlay loop muted />
      
