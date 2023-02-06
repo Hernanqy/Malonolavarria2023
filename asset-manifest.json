@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Malonolavarria2023/static/css/main.978c01db.css",
+    "main.js": "/Malonolavarria2023/static/js/main.e22acda9.js",
+    "static/media/ga16.jpg": "/Malonolavarria2023/static/media/ga16.76b3239948716596919e.jpg",
+    "static/media/legendarios.jpeg": "/Malonolavarria2023/static/media/legendarios.ac944453295ce490f735.jpeg",
+    "index.html": "/Malonolavarria2023/index.html",
+    "main.978c01db.css.map": "/Malonolavarria2023/static/css/main.978c01db.css.map",
+    "main.e22acda9.js.map": "/Malonolavarria2023/static/js/main.e22acda9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978c01db.css",
+    "static/js/main.e22acda9.js"
+  ]
+}
