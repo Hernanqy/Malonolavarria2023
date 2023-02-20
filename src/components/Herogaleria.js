@@ -7,7 +7,7 @@ function Herogaleria() {
   return (
     <div className='hero-containerg'> 
   
-      <img src="../images/logo.png" alt='logo' />
+      <img src="../build/images/logo.png" alt='logo' />
     
       
       
